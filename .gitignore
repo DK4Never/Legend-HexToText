@@ -13,3 +13,7 @@ build/
 
 *.bak
 *.tmp
+
+# Generated analysis output
+*.bin
+*_report.txt
